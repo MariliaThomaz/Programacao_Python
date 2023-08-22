@@ -59,3 +59,47 @@ print(espocial)
 == equal
 !=   note equal
 '''
+x = 10
+x +=5
+print(x)
+
+# matematica usnado if
+
+vecidade = 100
+
+if vecidade > 110:
+    print("acima de  110")
+elif vecidade < 60: 
+    print("obedeça velocidade  estrada")
+else:
+    print("Valocidade ok")
+
+
+# manira simplre escrvewr  uma  ccomparação
+
+valor = 20
+if 20 <=  valor < 40: 
+    print(valor)
+
+#for  lupe
+#imprima  0 a 5
+for num in range(5):
+    print(num)
+
+for nub in range (1, 20, 2):
+    print(f'o valor com espe com: {nub}')# estepe  pula  um  nuemro até chegar 19
+
+    # for flupo com breck
+
+    compra_c = False
+    dados_co = "compra no vbalo de 12.50"
+
+    for envia in range(3):
+        if compra_c:
+            print(dados_co)
+            print("Detalhes do enviado para email")
+            break
+    else:
+        print("Falha na compra")
+
+    
