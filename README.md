@@ -27,7 +27,7 @@ O  projeto é consome duas APIS com execução simples  para poder manipular rot
 
 ## Equipe de desenvolvimento
 
-Adsow Vinicius Freitas Batista
+ -[Adsow Vinicius Freitas Batista](https://github.com/AdsowVinicius).
 -[Luciano Albertinho Gomes de Castro](https://github.com/lucianoagc).
 -[Maria Julia Dias de Souza](https://github.com/LixAKA).
 -[Marília Thomaz Fernandes da Silva](https://github.com/MariliaThomaz).
