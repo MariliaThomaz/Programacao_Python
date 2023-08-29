@@ -33,11 +33,4 @@ O  projeto é consome duas APIS com execução simples  para poder manipular rot
 - [Marília Thomaz Fernandes da Silva](https://github.com/MariliaThomaz).
 - [Wellington Yago Gouvea](https://github.com/well651).
 
-## Equipe de desenvolvimento
-- [Lazaro Felipe Godoy](https://github.com/LazaroFelipe)
-- [Lucas Barbosa Nascimento](https://github.com/Lucasbnas435)
-- [Lucas Correa Mó](https://github.com/LucasMo1)
-- [Marilia Thomaz Fernandes da Silva](https://github.com/MariliaThomaz)
-- [Sthefany Victoria de Oliveira](https://github.com/sthefanyoliver)
-
 
